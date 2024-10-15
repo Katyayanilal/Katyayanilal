@@ -15,55 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-  .icon-link {
-    text-decoration: none;
-    outline: none;
-  }
-  .icon-link:hover {
-    text-decoration: none;
-  }
-</style>
+## Languages and Tools:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" class="icon-link">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" class="icon-link">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" class="icon-link">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" class="icon-link">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" class="icon-link">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-</a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer" class="icon-link">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-</a>
-<a href="https://playwright.dev/" target="_blank" rel="noreferrer" class="icon-link">
-  <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>
-</a>
-<a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer" class="icon-link">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-</a>
-<a href="https://postman.com" target="_blank" rel="noreferrer" class="icon-link">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer" class="icon-link">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer" class="icon-link">
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-</a>
-<a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer" class="icon-link">
-  <img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="40" height="40"/>
-</a>
-</p>
+[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;
+[![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/)&nbsp;&nbsp;
+[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/)&nbsp;&nbsp;
+[![MSSQL](https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg)](https://www.microsoft.com/en-us/sql-server)&nbsp;&nbsp;
+[![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)](https://www.w3schools.com/cs/)&nbsp;&nbsp;
+[![.NET](https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg)](https://dotnet.microsoft.com/)&nbsp;&nbsp;
+[![Playwright](https://playwright.dev/img/playwright-logo.svg)](https://playwright.dev/)&nbsp;&nbsp;
+[![Azure DevOps](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)](https://azure.microsoft.com/en-us/services/devops/)&nbsp;&nbsp;
+[![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://postman.com)&nbsp;&nbsp;
+[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)&nbsp;&nbsp;
+[![Selenium](https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg)](https://www.selenium.dev)&nbsp;&nbsp;
+[![JMeter](https://jmeter.apache.org/images/logo.svg)](https://jmeter.apache.org/)
 
 ### Socials
 
