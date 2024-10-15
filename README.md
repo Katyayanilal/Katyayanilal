@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Skills:
+## Skills
 
 [<img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>](https://playwright.dev/)&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>](https://www.typescriptlang.org/)&nbsp;
