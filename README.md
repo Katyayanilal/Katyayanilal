@@ -17,18 +17,17 @@ Here are some ideas to get you started:
 
 ## Languages and Tools:
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
+[<img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>](https://playwright.dev/)&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>](https://www.typescriptlang.org/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
+[<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>](https://www.selenium.dev)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>](https://dotnet.microsoft.com/)&nbsp;
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>](https://www.w3schools.com/cs/)&nbsp;
+[<img src="https://jmeter.apache.org/images/logo.svg" alt="JMeter" width="40" height="40"/>](https://jmeter.apache.org/)&nbsp;
+[<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure DevOps" width="40" height="40"/>](https://azure.microsoft.com/en-us/services/devops/)&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>](https://www.mysql.com/)&nbsp;
 [<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>](https://www.microsoft.com/en-us/sql-server)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>](https://www.w3schools.com/cs/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>](https://dotnet.microsoft.com/)&nbsp;
-[<img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>](https://playwright.dev/)&nbsp;
-[<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure DevOps" width="40" height="40"/>](https://azure.microsoft.com/en-us/services/devops/)&nbsp;
-[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>](https://postman.com)&nbsp;
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>](https://git-scm.com/)&nbsp;
-[<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>](https://www.selenium.dev)&nbsp;
-[<img src="https://jmeter.apache.org/images/logo.svg" alt="JMeter" width="40" height="40"/>](https://jmeter.apache.org/)
+[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>](https://postman.com)
 
 ### Socials
 
