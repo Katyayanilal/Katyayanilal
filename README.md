@@ -18,105 +18,117 @@ Here are some ideas to get you started:
 ## Skills
 
 <div style="background:red">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" >
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
       width="36"
       height="36"
       alt="JavaScript"
-    /></a>&nbsp
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" >
+    />
+  </a>&nbsp;
+
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
       width="36"
       height="36"
       alt="TypeScript"
-    /></a>&nbsp
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" >
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-      width="36"
-      height="36"
-      alt="HTML5"
-    /></a>&nbsp
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
-      width="36"
-      height="36"
-      alt="React"
-    /></a>&nbsp
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg"
-      width="36"
-      height="36"
-      alt="Angular"
-    /></a>&nbsp
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" >
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
-      width="36"
-      height="36"
-      alt="CSS3"
-    /></a>&nbsp
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
-      width="36"
-      height="36"
-      alt="Sass"
-    /></a>&nbsp
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
-      width="36"
-      height="36"
-      alt="TailwindCSS"
-    /></a>&nbsp
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
-      width="36"
-      height="36"
-      alt="Bootstrap"
-    /></a>&nbsp
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
-      width="36"
-      height="36"
-      alt="Vite"
-    /></a>&nbsp
+    />
+  </a>&nbsp;
+
+  <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
       width="36"
       height="36"
       alt="MySQL"
-    /></a>
-    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    />
+  </a>&nbsp;
+
+  <!-- MSSQL -->
+  <a href="https://docs.microsoft.com/en-us/sql/sql-server/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mssql-colored.svg"
       width="36"
       height="36"
-      alt="Java"
-    /></a>&nbsp
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" >
+      alt="MSSQL"
+    />
+  </a>&nbsp;
+
+  <!-- C# .NET -->
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg"
       width="36"
       height="36"
-      alt="C#"
-    /></a>&nbsp
+      alt="C# .NET"
+    />
+  </a>&nbsp;
+
+  <!-- Playwright -->
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://user-images.githubusercontent.com/35580526/112725879-9c67c280-8f28-11eb-9447-2a208d4e0c67.png"
+      width="36"
+      height="36"
+      alt="Playwright"
+    />
+  </a>&nbsp;
+
+  <!-- Azure DevOps -->
+  <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer">
+    <img
+      src="https://user-images.githubusercontent.com/29120939/112924186-4bfb9700-90eb-11eb-8b1b-cb3b61a9c97b.png"
+      width="36"
+      height="36"
+      alt="Azure DevOps"
+    />
+  </a>&nbsp;
+
+  <!-- Postman -->
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://user-images.githubusercontent.com/35580526/112725844-768e1e80-8f28-11eb-87c2-1ef013a4cc66.png"
+      width="36"
+      height="36"
+      alt="Postman"
+    />
+  </a>&nbsp;
+
+  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
       width="36"
       height="36"
       alt="Git"
-    /></a>&nbsp
+    />
+  </a>&nbsp;
+
+  <!-- Selenium -->
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/selenium-colored.svg"
+      width="36"
+      height="36"
+      alt="Selenium"
+    />
+  </a>&nbsp;
+
+  <!-- JMeter -->
+  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://user-images.githubusercontent.com/35580526/112725856-83ab0d80-8f28-11eb-8cf3-f2ccaf6c2f21.png"
+      width="36"
+      height="36"
+      alt="JMeter"
+    />
+  </a>&nbsp;
 </div>
+
 
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/katyayani-lal)
