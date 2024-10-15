@@ -17,44 +17,99 @@ Here are some ideas to get you started:
 
 ## Skills
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 10px;" />
-  </a>&nbsp
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right: 10px;" />
-  </a>&nbsp
+<div style="background:red">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" >
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/playwright-logo.svg.svg"
+      width="36"
+      height="36"
+      alt="playwright"
+    /></a>&nbsp
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" >
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
+      width="36"
+      height="36"
+      alt="TypeScript"
+    /></a>&nbsp
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" >
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-original.svg.svg"
+      width="36"
+      height="36"
+      alt="javascript"
+    /></a>&nbsp
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/selenium-logo.svg"
+      width="36"
+      height="36"
+      alt="selenium"
+    /></a>&nbsp
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-original-wordmark.svg.svg"
+      width="36"
+      height="36"
+      alt=".NET"
+    /></a>&nbsp
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" >
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-original.svg.svg"
+      width="36"
+      height="36"
+      alt="C#"
+    /></a>&nbsp
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-original-wordmark.svg"
+      width="36"
+      height="36"
+      alt="mysql"
+    /></a>&nbsp
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/microsoft-sql-server-logo.svg"
+      width="36"
+      height="36"
+      alt="mssql"
+    /></a>&nbsp
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/microsoft_azure-icon.svg"
+      width="36"
+      height="36"
+      alt="azure"
+    /></a>&nbsp
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jmeter.apache.org/images/logo.svg"
+      width="36"
+      height="36"
+      alt="Vite"
+    /></a>&nbsp
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 10px;" />
-  </a>&nbsp
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="margin-right: 10px;" />
-  </a>&nbsp
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="margin-right: 10px;" />
-  </a>&nbsp
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" style="margin-right: 10px;" />
-  </a>&nbsp
-  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-    <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40" style="margin-right: 10px;" />
-  </a>&nbsp
-  <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" style="margin-right: 10px;" />
-  </a>&nbsp
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin-right: 10px;" />
-  </a>&nbsp
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 10px;" />
-  </a>&nbsp
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" style="margin-right: 10px;" />
-  </a>&nbsp
-  <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://jmeter.apache.org/images/logo.svg" alt="jmeter" width="40" height="40" style="margin-right: 10px;" />
-  </a>&nbsp
-</p>
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
+      width="36"
+      height="36"
+      alt="jmeter"
+    /></a>
+    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-scm/git-scm-icon.svg"
+      width="36"
+      height="36"
+      alt="git"
+    /></a>&nbsp
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" >
+    <img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/getpostman-icon.svg"
+      width="36"
+      height="36"
+      alt="postman"
+    /></a>&nbsp
+</div>
 
 ### Socials
 
