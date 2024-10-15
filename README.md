@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 <!--
 **Katyayanilal/Katyayanilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Languages and Tools:
+### Skills:
 
 [<img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>](https://playwright.dev/)&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>](https://www.typescriptlang.org/)&nbsp;
@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 ### Socials
 
 <p align="left">
-<a href="https://instagram.com/kat_yayani_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>&nbsp
 <a href="www.linkedin.com/in/katyayani-lal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp
+<a href="https://instagram.com/kat_yayani_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>&nbsp
 <a href="https://github.com/Katyayanilal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>&nbsp
 </p>
 
