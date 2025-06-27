@@ -17,17 +17,65 @@ Here are some ideas to get you started:
 
 ## 🛠️ Skills
 
-[<img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>](https://playwright.dev/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>](https://www.typescriptlang.org/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
-[<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>](https://www.selenium.dev)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>](https://dotnet.microsoft.com/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>](https://www.w3schools.com/cs/)&nbsp;
-[<img src="https://jmeter.apache.org/images/logo.svg" alt="JMeter" width="40" height="40"/>](https://jmeter.apache.org/)&nbsp;
-[<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure DevOps" width="40" height="40"/>](https://azure.microsoft.com/en-us/services/devops/)&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>](https://www.mysql.com/)&nbsp;
-[<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>](https://www.microsoft.com/en-us/sql-server)&nbsp;
-[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>](https://postman.com)
+# 🛠️ Tech Arsenal
+
+<div align="center">
+
+## 🎯 Test Automation & Quality Assurance
+<p align="center">
+  <a href="https://playwright.dev/"><img src="https://skillicons.dev/icons?i=playwright" alt="Playwright" /></a>
+  <a href="https://www.selenium.dev"><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" /></a>
+  <a href="https://jmeter.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jmeter/jmeter-original.svg" alt="JMeter" width="48" height="48"/></a>
+  <a href="https://postman.com"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
+</p>
+
+## 💻 Programming Languages
+<p align="center">
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
+  <a href="https://www.w3schools.com/cs/"><img src="https://skillicons.dev/icons?i=cs" alt="C#" /></a>
+</p>
+
+## 🚀 Frameworks & Platforms
+<p align="center">
+  <a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" /></a>
+  <a href="https://azure.microsoft.com/en-us/services/devops/"><img src="https://skillicons.dev/icons?i=azure" alt="Azure DevOps" /></a>
+</p>
+
+## 🗄️ Databases
+<p align="center">
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="48" height="48"/></a>
+</p>
+
+<br/>
+
+### 📊 Skill Proficiency
+
+```text
+Test Automation    ████████████████████████████████████████   100%
+Quality Assurance  ████████████████████████████████████████    95%
+TypeScript/JS      ████████████████████████████████████████    90%
+C# Development     ████████████████████████████████████████    85%
+Database Design    ████████████████████████████████████████    80%
+CI/CD Pipelines    ████████████████████████████████████████    85%
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔥 **Quality Assurance Engineer** | **Test Automation Specialist** | **DevOps Enthusiast**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+*Building robust, scalable test automation frameworks and ensuring software quality at every step* 🎯
+
+### 🌟 **"Quality is not an act, it is a habit"** 🌟
+
+</div>
 
 ## 🌐 Socials
 
