@@ -37,4 +37,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/Katyayanilal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="30" /></a>&nbsp
 </p>
 
+## ✍️ Blog / Articles
+- [When QA Meets AI Magic](https://insightconsultants.co/when-qa-meets-ai-magic/)
 
