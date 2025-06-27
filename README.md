@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🧑‍💻 Hi there 👋
 
 <!--
 **Katyayanilal/Katyayanilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Skills
+## 🛠️ Skills
 
 [<img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>](https://playwright.dev/)&nbsp;
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>](https://www.typescriptlang.org/)&nbsp;
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>](https://www.microsoft.com/en-us/sql-server)&nbsp;
 [<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>](https://postman.com)
 
-## Socials
+## 🌐 Socials
 
 <p align="left">
 <a href="www.linkedin.com/in/katyayani-lal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>&nbsp
