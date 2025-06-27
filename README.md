@@ -35,9 +35,7 @@ Here are some ideas to get you started:
 <a href="www.linkedin.com/in/katyayani-lal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>&nbsp
 <a href="https://instagram.com/kat_yayani_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" /></a>&nbsp
 <a href="https://github.com/Katyayanilal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="30" /></a>&nbsp
-<a href="mailto:mailatklal2000@gmail.com" target="blank">
-  <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="30" width="30" />
-</a>&nbsp
+<a href="mailto:mailatklal2000@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Email" height="30" width="30" /></a>&nbsp;
 </p>
 
 ## ✍️ Blog / Articles
