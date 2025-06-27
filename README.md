@@ -42,17 +42,7 @@ CI/CD Pipelines    ████████████████████�
 
 </div>
 
----
 
-<div align="center">
-
-### 🔥 **Quality Assurance Engineer** | **Test Automation Specialist** | **DevOps Enthusiast**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-*Building robust, scalable test automation frameworks and ensuring software quality at every step* 🎯
-
-### 🌟 **"Quality is not an act, it is a habit"** 🌟
 
 </div>
 
